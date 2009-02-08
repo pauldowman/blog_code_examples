@@ -1,0 +1,5 @@
+# Incremental backup every 10 minutes
+*/10 * * * *  root  /usr/local/bin/incremental_backup.rb
+# Full backup every day at 05:01
+1 5 * * *  root  /usr/local/bin/full_backup.rb
+
