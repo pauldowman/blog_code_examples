@@ -51,9 +51,6 @@ begin
     cmd += " -p'#{@mysql_password}' " unless @mysql_password.nil?
     run cmd
   end
-  
-  # Reset the binary logs
-  execute_sql("reset master")
 ensure
   FileUtils.rm_rf(@temp_dir)
 end
