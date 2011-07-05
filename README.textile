@@ -2,6 +2,7 @@ h3. This repository is obsolete.
 
 Full content for "my website pauldowman.com":http://pauldowman.com, including all code, is available in my "pauldowman.com-content repo":https://github.com/pauldowman/pauldowman.com-content.
 
+The MySQL backup article and code is "here":https://github.com/pauldowman/pauldowman.com-content/tree/master/pages/2009-02-08-mysql-s3-backup.
 
 Copyright 2009 Paul Dowman, "http://pauldowman.com/":http://pauldowman.com/
 
