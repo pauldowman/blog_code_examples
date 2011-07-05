@@ -1,6 +1,6 @@
 h3. This repository is obsolete.
 
-Full content for "my website pauldowman.com":http://pauldowman.com, including all code, is available in my "pauldowman.com-content repo":https://github.com/pauldowman/pauldowman.com-content".
+Full content for "my website pauldowman.com":http://pauldowman.com, including all code, is available in my "pauldowman.com-content repo":https://github.com/pauldowman/pauldowman.com-content.
 
 
 Copyright 2009 Paul Dowman, "http://pauldowman.com/":http://pauldowman.com/
